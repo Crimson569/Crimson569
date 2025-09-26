@@ -1,5 +1,5 @@
 ## <p align="center">Hi there 👋</p>
-### <p align="center">My name is Nikolay, I'm 19 years old and I am an ASP.NET Core junior developer! 😃</p>
+### <p align="center">My name is Nikolay. I'm 19, and I'm a junior ASP.NET Core developer. 😃</p>
 ### <p align="center">My current stack: </p>
 
 <p align="center">
